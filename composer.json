@@ -1,0 +1,29 @@
+{
+    "name": "simoneddy/dot-config",
+    "description": "Basic config from files using Adbar/Dot",
+    "type": "library",
+    "license": "MIT",
+    "config": {
+        "bin-dir": "bin"
+    },
+    "authors": [
+        {
+            "name": "Simon Eddy",
+            "email": "simon@simoneddy.com.au"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+       "psr-4": {
+          "Eddy\\DotConfig\\": "src"
+       }
+    },
+    "require": {
+        "adbario/php-dot-notation": "^2.2",
+        "symfony/yaml": "^5.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.0"
+    }
+}

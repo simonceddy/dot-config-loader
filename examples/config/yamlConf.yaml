@@ -1,0 +1,2 @@
+# The loader will accept either the .yaml or .yml extension
+test: true
