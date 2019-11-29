@@ -6,6 +6,9 @@ use Symfony\Component\Yaml\Yaml;
 
 /**
  * Create a configuration object from given paths
+ * 
+ * @todo Simplify - spread responsibilities
+ * @todo make less opinionated or use Dot more?
  */
 class LoadConfigFromPaths
 {
