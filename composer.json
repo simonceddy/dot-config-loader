@@ -1,6 +1,6 @@
 {
-    "name": "simoneddy/dot-config",
-    "description": "Basic config from files using Adbar/Dot",
+    "name": "simoneddy/dot-config-loader",
+    "description": "Basic config file loader using Adbar/Dot",
     "type": "library",
     "license": "MIT",
     "config": {
