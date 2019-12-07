@@ -21,9 +21,9 @@
     },
     "require": {
         "adbario/php-dot-notation": "^2.2",
-        "symfony/yaml": "^4.2"
+        "symfony/yaml": "^5.0"
     },
     "require-dev": {
-        "symfony/var-dumper": "^4.2"
+        "symfony/var-dumper": "^5.0"
     }
 }
