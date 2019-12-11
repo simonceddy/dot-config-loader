@@ -101,7 +101,7 @@ class LoadConfigFromPaths
      *
      * @param array|string $paths
      *
-     * @return Config
+     * @return Dot
      */
     public function load($paths = [])
     {
